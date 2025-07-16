@@ -544,7 +544,7 @@ ul.row {
 
 /*dark theme*/
 [data-section-theme="dark"] {
-    --text-color: #ffffff;
-    --section-title-color: #ffffff;
+    --text-color: var(--color-white)
+    --section-title-color: var(--color-white)
     background-color: var(--color-black);
 }
