@@ -707,7 +707,7 @@ Width should be 90rem and the height should be set automatic*/
 .card-work .card-title a {
     display: block;
     text-decoration: none;
-    padding-top: 0.45rem;
+    padding-top: 45%;
 }
 
 .card-work .card-title a::after {
