@@ -632,7 +632,7 @@ Width should be 90rem and the height should be set automatic*/
     padding: 10rem 40 rem 2rem 0;
 }
 
-.class {
+.header {
     padding: var(--header-padding);
 }
 
