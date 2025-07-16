@@ -390,7 +390,7 @@ template {
     --button-border: 0.2rem solid var(--color-primary);
     --button-color: var(--color-black);
     --button-text-decoration: none;
-    --button-font-size: var(--font-size-large);
+    --button-font-size: var(--button-font-size);
     --button-hover-color: var(--color-white);
     --button-hover-text-decoration: none;
     --button-hover-background: var(--color-primary);
@@ -441,7 +441,7 @@ a:active {
 
 .button:hover {
     color: var(--button-hover-color);
-    text-decoration: var(--button-hover-text-decotration);
+    text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background-color);
 }
 
