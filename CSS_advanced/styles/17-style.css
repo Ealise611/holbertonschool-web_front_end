@@ -421,8 +421,14 @@ a:active {
     color: var(--color-primary);
 }
 
+.section {
+    padding-left: var(--section-padding);
+    padding-right: var(--section-padding);
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+}
+
 .section-header {
-    text-align: var(--section-header-align);
     padding-left: var(--section-header-padding);
     padding-right: var(--section-header-padding);
     padding-top: var(--section-header-padding);
@@ -442,13 +448,6 @@ a:active {
     padding-right: var(--section-footer-padding);
     padding-top: var(--section-footer-padding);
     padding-bottom: var(--section-footer-padding);
-}
-
-.section {
-    padding-left: var(--section-padding);
-    padding-right: var(--section-padding);
-    padding-top: var(--section-padding);
-    padding-bottom: var(--section-padding);
 }
 
 .section-title {
