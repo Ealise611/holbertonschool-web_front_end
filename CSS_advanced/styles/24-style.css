@@ -555,20 +555,21 @@ ul.row {
 }
 
 /*target card-title that is inside card-service*/
-.card-service .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
 /*target a that is inside card-service*/
-.card-service a {
+.card-services a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
-.card-service a:hover {
+.card-services a:hover {
     background-color: var(--color-primary);
     color: var(--color-white);
+    text-decoration: none;
 }
 
 /*dark theme*/
