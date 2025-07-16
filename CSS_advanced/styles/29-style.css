@@ -664,7 +664,7 @@ Width should be 90rem and the height should be set automatic*/
     left: 0;
     background-color: var(--color-white);
     width: 0;
-    height: 20%;
+    height: 0.2rem;
 }
 
 .nav .nav-item:hover .nav-link::before {
