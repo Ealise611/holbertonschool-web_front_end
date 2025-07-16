@@ -546,5 +546,5 @@ ul.row {
 [data-theme="dark"] {
     --text-color: color white;
     --section-title-color: color white;
-    background-color: color black;
+    background-color: var(--color-black);
 }
